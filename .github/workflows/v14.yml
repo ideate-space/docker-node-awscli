@@ -1,4 +1,4 @@
-name: ideate/node-awscli:14.x
+name: sleavely/node-awscli:14.x
 
 on:
   push:
